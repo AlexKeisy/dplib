@@ -1,7 +1,7 @@
 //definitions
 
-#ifndef GPIO_AF_F407XX_H_
-#define GPIO_AF_F407XX_H_
+#ifndef GPIO_AF_F4XX_H_
+#define GPIO_AF_F4XX_H_
 
 
 #ifdef __cplusplus
@@ -893,4 +893,4 @@ extern "C" {
 #ifdef __cplusplus
 }
 #endif
-#endif /* GPIO_AF_F407XX_H_ */
+#endif /* GPIO_AF_FXX_H_ */
